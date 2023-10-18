@@ -2,7 +2,7 @@
 
 My name is Dmitry and I'm developer
 
-- 📫 How to reach me: www.linkedin.com/in/danilovda
+[![](https://img.shields.io/badge/-Dmitry%20Danilov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilovda/)](https://www.linkedin.com/in/danilovda/)
 
   
 <!--
