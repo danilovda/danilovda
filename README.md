@@ -6,7 +6,7 @@ My name is Dmitry and I'm developer
 [![](https://img.shields.io/badge/-Dmitry%20Danilov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilovda/)](https://www.linkedin.com/in/danilovda/)
 
 
-<a href="https://www.credly.com/badges/e346f893-1bf7-4225-9f28-a4ae600bc31e/linked_in_profile">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/DanilovDA/2636E14652B77C5E?sharingId=3B22DC6A7B1A536F">
   <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="100" height="100">
 </a>
 <a href="https://docs.yandex.ru/docs/view?url=ya-mail%3A%2F%2F185210534675639814%2F1.2&name=20242YC00088.pdf&uid=25838656" title="Cloud Services Engineer">
